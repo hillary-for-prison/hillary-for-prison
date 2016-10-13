@@ -28,6 +28,12 @@
 - https://www.youtube.com/watch?v=GqCIub3SmCI
   - CNN getting caught whispering a Clinton talking point to an interviewee after the second Presidential debate
 
+# TPP
+
+- https://wikileaks.org/podesta-emails/emailid/6616 _(March 25, 2015)_
+  - _"This draft assumes that **she's ultimately going to support both TPA and TPP.**"_
+  - An early draft of her weasel-worded stance on TPP, which she later came out against (because of Bernie)
+
 # Policy
 
 - https://wikileaks.org/podesta-emails/emailid/5423 _(March 20, 2016)_
