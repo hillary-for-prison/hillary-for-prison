@@ -7,6 +7,12 @@
 
 - https://wikileaks.org/podesta-emails/emailid/6185
   - _"Someone here just got a tip that **the State Department may be planning to release her Benghazi emails tomorrow or Monday.**"_
+  
+# Establishment
+
+- https://wikileaks.org/podesta-emails/emailid/5423 _(March 20, 2016)_
+  - _"So here's my idea. Bernie and his people have been bitching about super delegates and the huge percentage that have come out for Hillary. Since the original idea was to bring our elected officials to the convention ex-officio ( because of the offices and the constituencies they represent), **why not throw Bernie a bone** and reduce the super delegates in the future to the original draft of members of the House and Senate, governors and big city mayors, eliminating the DNC members who are not State chairs or vice-Chairs. (Frankly, **DNC members don't really represent constituencies anyway. I should know.** I served on the DNC first as Executive Director and then as an elected member for 10 years.) **So if we "give" Bernie this in the Convention's rules committee, his people will think they've "won" something from the Party Establishment. And it functionally doesn't make any difference anyway. They win. We don't lose. Everyone is happy.**"_
+  - Mark Siegel offering a strategy on how to win over (con) Bernie and his supporters
 
 # ISIS
 
@@ -33,9 +39,3 @@
 - https://wikileaks.org/podesta-emails/emailid/6616 _(March 25, 2015)_
   - _"This draft assumes that **she's ultimately going to support both TPA and TPP.**"_
   - An early draft of her weasel-worded stance on TPP, which she later came out against (because of Bernie)
-
-# Policy
-
-- https://wikileaks.org/podesta-emails/emailid/5423 _(March 20, 2016)_
-  - _"So here's my idea. Bernie and his people have been bitching about super delegates and the huge percentage that have come out for Hillary. Since the original idea was to bring our elected officials to the convention ex-officio ( because of the offices and the constituencies they represent), **why not throw Bernie a bone** and reduce the super delegates in the future to the original draft of members of the House and Senate, governors and big city mayors, eliminating the DNC members who are not State chairs or vice-Chairs. (Frankly, **DNC members don't really represent constituencies anyway. I should know.** I served on the DNC first as Executive Director and then as an elected member for 10 years.) **So if we "give" Bernie this in the Convention's rules committee, his people will think they've "won" something from the Party Establishment. And it functionally doesn't make any difference anyway. They win. We don't lose. Everyone is happy.**"_
-  - Mark Siegel offering a strategy on how to win over (con) Bernie and his supporters
