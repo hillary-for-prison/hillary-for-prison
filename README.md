@@ -3,6 +3,12 @@
 - https://www.wikileaks.com/podesta-emails/emailid/5636
   - _"This structure allows CTR to retain its independence but **coordinate directly and strategically** with the Hillary campaign."_
 
+# ISIS
+
+- https://wikileaks.org/podesta-emails/emailid/3774
+  - _"This entire effort should be done with a low profile, avoiding the massive traditional military operations that are at best temporary solutions. While this military/para-military operation is moving forward, we need to use our diplomatic and more traditional intelligence assets to bring pressure on **the governments of Qatar and Saudi Arabia, which are providing clandestine financial and logistic support to ISIL and other radical Sunni groups in the region**.
+  - From Hillary Clinton, acknowledging the the Saudi Arabian government (not just wealthy individuals) is actively funding ISIS
+
 # Media collusion
 
 - https://wikileaks.org/podesta-emails/emailid/5988 _(April 15, 2015)_
