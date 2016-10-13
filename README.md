@@ -8,7 +8,10 @@
 - https://wikileaks.org/podesta-emails/emailid/5988 _(April 15, 2015)_
   - _"I am committed to make sure she is elected as the next President of United States."_
   - From Frank Islam, a blogger for the Huffington Post
-
+- https://wikileaks.org/podesta-emails/emailid/4213 _(July 10, 2015)_
+  - _"Fine to use the moose, but appreciate **leaving the mention of Sarah Palin out**."_
+  - _"**I ask you leave out**: 'and gay rights has moved much faster than women's rights or civil rights, which is an interesting phenomenon somebody in the future will unpack.'"_
+  - Mark Leibovich of the New York Times running a story by Clinton staffer Jennifer Palmieri before publishing
 - https://www.youtube.com/watch?v=GqCIub3SmCI
   - CNN getting caught whispering a Clinton talking point to an interviewee after the second Presidential debate
 
