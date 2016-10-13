@@ -1,3 +1,9 @@
+# Clinton Foundation
+
+- https://wikileaks.org/podesta-emails/emailid/6900 _(March 21, 2015)_
+  - _"**foreign donations and paid speeches and hustling gold mining deals by her brother are entirely legitimate issues** that are self-created, and must self-corrected before it is too late"_
+  - Brent (who?) sends a concerned email to John Podesta about Clinton's overt corruption
+
 # Correct the Record
 
 - https://www.wikileaks.com/podesta-emails/emailid/5636
