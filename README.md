@@ -3,6 +3,11 @@
 - https://www.wikileaks.com/podesta-emails/emailid/5636
   - _"This structure allows CTR to retain its independence but **coordinate directly and strategically** with the Hillary campaign."_
 
+# DOJ/FBI collusion
+
+- https://wikileaks.org/podesta-emails/emailid/6185
+  - _"Someone here just got a tip that **the State Department may be planning to release her Benghazi emails tomorrow or Monday.**"_
+
 # ISIS
 
 - https://wikileaks.org/podesta-emails/emailid/3774
