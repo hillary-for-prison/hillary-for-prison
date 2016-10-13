@@ -11,6 +11,8 @@
 
 # Media collusion
 
+- http://dcleaks.com/emails/cApR/html/Clinton_Foundation/00001237.EML.html _(February 19, 2015)_
+  - _"we've made contact with John Olivier"_
 - https://wikileaks.org/podesta-emails/emailid/5988 _(April 15, 2015)_
   - _"I am committed to make sure she is elected as the next President of United States."_
   - From Frank Islam, a blogger for the Huffington Post
