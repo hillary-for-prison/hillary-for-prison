@@ -87,6 +87,10 @@ In the media:
   - _"The statement could be read to imply we turned over the thumb drive and server to the State Department—**which we didn’t**"_
   - Cheryl Mills and others discuss how to word an upcoming official statement by Clinton about her emails. David Kendal suggests removing a lie from the draft.
   
+In the media:
+
+- http://lawnewz.com/high-profile/investigator-says-no-agent-working-the-case-agreed-with-comeys-decision-to-let-clinton-off-hook/
+  
 # Fake Trump protests
 
 - https://wikileaks.org/podesta-emails/emailid/2074 _(October 12, 2015)_
