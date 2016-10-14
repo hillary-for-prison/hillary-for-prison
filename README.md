@@ -19,6 +19,9 @@
 - https://wikileaks.org/podesta-emails/emailid/927 _(April 24, 2013)_
   - _"But if everybody's watching, you know, all of the back room discussions and the deals, you know, then people get a little nervous, to say the least. So, **you need both a public and a private position.**"_
   - From a paid speech for National Multi-Housing Councel
+- https://wikileaks.org/podesta-emails/emailid/5423 _(March 20, 2016)_
+  - _"So here's my idea. Bernie and his people have been bitching about super delegates and the huge percentage that have come out for Hillary. Since the original idea was to bring our elected officials to the convention ex-officio ( because of the offices and the constituencies they represent), **why not throw Bernie a bone** and reduce the super delegates in the future to the original draft of members of the House and Senate, governors and big city mayors, eliminating the DNC members who are not State chairs or vice-Chairs. (Frankly, **DNC members don't really represent constituencies anyway. I should know.** I served on the DNC first as Executive Director and then as an elected member for 10 years.) **So if we "give" Bernie this in the Convention's rules committee, his people will think they've "won" something from the Party Establishment. And it functionally doesn't make any difference anyway. They win. We don't lose. Everyone is happy.**"_
+  - Mark Siegel offering a strategy on how to win over (con) Bernie and his supporters
   
 # Emails, private server, FBI investigation
 
@@ -26,16 +29,10 @@
   - _"The statement could be read to imply we turned over the thumb drive and server to the State Department—**which we didn’t**"_
   - Cheryl Mills and others discuss how to word an upcoming official statement by Clinton about her emails. David Kendal suggests removing a lie from the draft.
   
-# Establishment
-
-- https://wikileaks.org/podesta-emails/emailid/5423 _(March 20, 2016)_
-  - _"So here's my idea. Bernie and his people have been bitching about super delegates and the huge percentage that have come out for Hillary. Since the original idea was to bring our elected officials to the convention ex-officio ( because of the offices and the constituencies they represent), **why not throw Bernie a bone** and reduce the super delegates in the future to the original draft of members of the House and Senate, governors and big city mayors, eliminating the DNC members who are not State chairs or vice-Chairs. (Frankly, **DNC members don't really represent constituencies anyway. I should know.** I served on the DNC first as Executive Director and then as an elected member for 10 years.) **So if we "give" Bernie this in the Convention's rules committee, his people will think they've "won" something from the Party Establishment. And it functionally doesn't make any difference anyway. They win. We don't lose. Everyone is happy.**"_
-  - Mark Siegel offering a strategy on how to win over (con) Bernie and his supporters
-
 # ISIS
 
 - https://wikileaks.org/podesta-emails/emailid/3774
-  - _"This entire effort should be done with a low profile, avoiding the massive traditional military operations that are at best temporary solutions. While this military/para-military operation is moving forward, we need to use our diplomatic and more traditional intelligence assets to bring pressure on **the governments of Qatar and Saudi Arabia, which are providing clandestine financial and logistic support to ISIL and other radical Sunni groups in the region**.
+  - _"This entire effort should be done with a low profile, avoiding the massive traditional military operations that are at best temporary solutions. While this military/para-military operation is moving forward, we need to use our diplomatic and more traditional intelligence assets to bring pressure on **the governments of Qatar and Saudi Arabia, which are providing clandestine financial and logistic support to ISIL and other radical Sunni groups in the region**._
   - From Hillary Clinton, acknowledging the the Saudi Arabian government (not just wealthy individuals) is actively funding ISIS
 
 # Media collusion
