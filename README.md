@@ -9,11 +9,6 @@
   - _"**foreign donations and paid speeches and hustling gold mining deals by her brother are entirely legitimate issues** that are self-created, and must self-corrected before it is too late"_
   - Brent (who?) sends a concerned email to John Podesta about Clinton's overt corruption
 
-# Correct the Record
-
-- https://www.wikileaks.com/podesta-emails/emailid/5636
-  - _"This structure allows CTR to retain its independence but **coordinate directly and strategically** with the Hillary campaign."_
-
 # DOJ/FBI collusion
 
 - https://wikileaks.org/podesta-emails/emailid/6185
@@ -64,6 +59,13 @@
   - CNN getting caught whispering a Clinton talking point to an interviewee after the second Presidential debate
 - https://wikileaks.org/podesta-emails/emailid/5205 _(March 12, 2016)_
   - Donna Brazile leaks a question from the upcoming CNN town hall to the Clinton camp, and [it was asked](https://www.youtube.com/watch?v=fN7MefalMm0).
+
+# Super PAC collusion
+
+- https://www.wikileaks.com/podesta-emails/emailid/5636
+  - _"This structure allows CTR to retain its independence but **coordinate directly and strategically** with the Hillary campaign."_
+- https://wikileaks.org/podesta-emails/emailid/5332 _(October 2, 2013)_
+  - The Clinton campaign discusses possible board members for a super PAC
 
 # TPP
 
