@@ -135,7 +135,9 @@
   
 # Racism, racial politics
 
-- https://wikileaks.org/podesta-emails/emailid/6195
+- https://wikileaks.org/podesta-emails/emailid/7860 _(January 9, 2008)_
+  - _"Obama (owe-BAHM-uh)'s **father was a Muslim and Obama grew up among Muslims** in the world's most populous Islamic country."_
+- https://wikileaks.org/podesta-emails/emailid/6195 _(January 14, 2016)_
   - _"This is great. My edits are attached. **The only flag here is that Jordan Davis was killed by a white man**, so arguably - this crime was racially motivated, which takes this outside the discussion of gun violence. **Was there another mother in the Chicago meeting where the shooting was NOT racially motivated**? If yes, we should use that story instead of Jordan Davis._"
   
 # Super PAC collusion
