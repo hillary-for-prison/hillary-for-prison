@@ -1,3 +1,17 @@
+| Acronym | Meaning |
+| --- | --- |
+| CGI | Clinton Global Initiative |
+| CVC | Chelsea Victoria Clinton |
+| KSA | Kingdom of Saudi Arabia |
+| WJC | William Jefferson Clinton |
+
+| Pseudonym | Email | Real Name |
+| --- | --- | --- |
+| Anna James | aj66@nyu.edu | Chelsea Clinton |
+| Diane Reynolds | | Chelsea Clinton
+
+-----
+
 # Bimbo Dickins
 
 - https://wikileaks.org/podesta-emails/emailid/2301 _(January 10, 2016)_
