@@ -100,3 +100,9 @@
   - _"We don't need to prove he's bad on Wall Street-- that's not really credible. We need to prove we're ok. **Most of all, we don't want this fight.**"_
   - _"If you want to make the question of the campaign, **who will best stand up to Wall Street, Sanders is the answer** and he'll give you $35 million reasons why."_
   - Clinton camp knows she's weak on Wall Street, doesn't want it to be a central campaign issue
+  
+-----
+
+# Random collection of odd, unexplained, or humorous leaks
+
+- https://wikileaks.org/podesta-emails/emailid/5439
