@@ -3,7 +3,6 @@
 - https://wikileaks.org/podesta-emails/emailid/927
   - _“So our system is, in many ways, more difficult, certainly far more expensive and much longer than a parliamentary system, and I really admire the people who subject themselves to it. Even when I, you know, think they should not be elected president, I still think, well, you know, good for you I guess, you're out there promoting democracy and those crazy ideas of yours. So I think that it's something -- I would like -- you know, obviously as somebody who has been through it, I would like it not to last as long because I think it's very distracting from what we should be doing every day in our public business. I would like it not to be so expensive. I have no idea how you do that. I mean, in my campaign -- I lose track, but I think I raised $250 million or some such enormous amount, and in the last campaign President Obama raised 1.1 billion, and **that was before the Super PACs and all of this other money just rushing in**, and it's so ridiculous that we have this kind of free for all with all of this **financial interest at stake**, but, you know, the Supreme Court said that's basically what we're in for. So we're kind of in the wild west, and, you know, **it would be very difficult to run for president without raising a huge amount of money and without having other people supporting you because your opponent will have their supporters**. So I think as hard as it was when I ran, I think it's even harder now.”_ - Speech for General Electric's Global Leadership Meeting, January 6, 2014
 
-
 # Clinton Foundation
 
 - https://wikileaks.org/podesta-emails/emailid/6900 _(March 21, 2015)_
@@ -34,17 +33,22 @@
   - _"The statement could be read to imply we turned over the thumb drive and server to the State Department—**which we didn’t**"_
   - Cheryl Mills and others discuss how to word an upcoming official statement by Clinton about her emails. David Kendal suggests removing a lie from the draft.
   
+# Globalism 
+
+- https://wikileaks.org/podesta-emails/emailid/927
+  - _"My dream is a **hemispheric common market, with open trade and open borders**, some time in the future with energy that is as green and sustainable as we can get it, powering growth and opportunity for every person in the hemisphere."_ - Remarks to Banco Itau, May 16, 2013
+  - _"Secondly, I think we have to have a concerted plan to increase trade already under the current circumstances, you know, that Inter-American Development Bank figure is pretty surprising. There is so much more we can do, there is a lot of low hanging fruit but businesses on both sides have to make it a priority and it's not for governments to do but governments can either make it easy or make it hard and **we have to resist, protectionism, other kinds of barriers to market access and to trade** and I would like to see this get much more attention and be not just a policy for a year under president X or president Y but a consistent one."_ - Remarks to Banco Itau, May 16, 2013
+
 # ISIS
 
 - https://wikileaks.org/podesta-emails/emailid/3774
   - _"This entire effort should be done with a low profile, avoiding the massive traditional military operations that are at best temporary solutions. While this military/para-military operation is moving forward, we need to use our diplomatic and more traditional intelligence assets to bring pressure on **the governments of Qatar and Saudi Arabia, which are providing clandestine financial and logistic support to ISIL and other radical Sunni groups in the region**._
   - From Hillary Clinton, acknowledging the the Saudi Arabian government (not just wealthy individuals) is actively funding ISIS
 
-# Globalism 
+# Leaking classified information
 
 - https://wikileaks.org/podesta-emails/emailid/927
-  - _"My dream is a **hemispheric common market, with open trade and open borders**, some time in the future with energy that is as green and sustainable as we can get it, powering growth and opportunity for every person in the hemisphere."_ - Remarks to Banco Itau, May 16, 2013
-  - _"Secondly, I think we have to have a concerted plan to increase trade already under the current circumstances, you know, that Inter-American Development Bank figure is pretty surprising. There is so much more we can do, there is a lot of low hanging fruit but businesses on both sides have to make it a priority and it's not for governments to do but governments can either make it easy or make it hard and **we have to resist, protectionism, other kinds of barriers to market access and to trade** and I would like to see this get much more attention and be not just a policy for a year under president X or president Y but a consistent one."_ - Remarks to Banco Itau, May 16, 2013
+  - _"I was in the small group that recommended to the President that he go after bin Laden. The amount of work that was required to get a strong enough basis of information on which to plan took more than a decade. The people who were the analysts and collectors and good old-fashioned spies who were gathering bits and pieces of information, some of them from cell phone conversations, I will tell you, and then all of a sudden putting this matrix together and saying this guy used to protect bin Laden. **He has just made a phone call.** He said this in the phone call. We need to figure out where he is. Then we need to follow him And **that is how we found this compound in Abbottabad. It didn’t happen because somebody walked into our embassy and said, You know, there is a suspicious compound in Abbottabad** that you guys should go take a look at.”_ - Speech at London Drug Toronto, November 4, 2013
 
 # Media collusion
 
