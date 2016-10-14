@@ -8,6 +8,9 @@
 - https://wikileaks.org/podesta-emails/emailid/2874 _(November 13, 2011)_
   - _"I'm also starting to worry that **if this story gets out, we are screwed**. Dk and I built a business. 65 people work for us who have wives and husbands and kids, they all depend on us. Our business has almost nothing to do with the clintons, the foundation or cgi in any way. The chairman of ubs could care a less about cgi."_
   - [Doug Band](https://en.m.wikipedia.org/wiki/Doug_Band) is worried about something being exposed
+- https://wikileaks.org/podesta-emails/emailid/3332 _(December 15, 2011)_
+  - _"Late last night, laura graham called me as she couldn't reach my brother or her shrink. She was on staten island in her car parked a few feet from the waters edge with her foot on the gas pedal and the car in park. She called me to tell me **the stress of all of this office crap with wjc and cvc as well as that of her family had driven her to the edge** and she couldn't take it anymore. I spent a while on the phone with her preventing her from doing that, as I have a few times in the past few months, and was able to reach roger and her shrink."_
+  - A fascinating email that details some of the stress-induced mental health problems suffered by Laura Graham (Clinton Foundation COO), and others
 - https://wikileaks.org/podesta-emails/emailid/8396 _(April 16, 2012)_
   - Qatar gave Bill Clinton a $1 million check for his birthday in 2011
 - https://wikileaks.org/podesta-emails/emailid/5469 _(November 19, 2014)_
