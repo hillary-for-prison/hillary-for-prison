@@ -133,10 +133,12 @@
   
 # Super PAC collusion
 
-- https://www.wikileaks.com/podesta-emails/emailid/5636
-  - _"This structure allows CTR to retain its independence but **coordinate directly and strategically** with the Hillary campaign."_
+- https://wikileaks.org/podesta-emails/emailid/4140 _(April 14, 2008)_
+  - David Brock (of CTR) and John Podesta meet in person
 - https://wikileaks.org/podesta-emails/emailid/5332 _(October 2, 2013)_
   - The Clinton campaign discusses possible board members for a super PAC
+- https://www.wikileaks.com/podesta-emails/emailid/5636 _(December 1, 2015)
+  - _"This structure allows CTR to retain its independence but **coordinate directly and strategically** with the Hillary campaign."_
 
 # TPP
 
