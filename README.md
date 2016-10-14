@@ -108,6 +108,12 @@
 
 # Random collection of odd, unexplained, or humorous leaks
 
-- https://wikileaks.org/podesta-emails/emailid/5439 - Girlfriend
-- https://wikileaks.org/podesta-emails/emailid/5473 - UFOs
-- https://wikileaks.org/podesta-emails/emailid/5506 - Fuck these assholes
+- https://wikileaks.org/podesta-emails/emailid/5439 
+  - Girlfriend
+- https://wikileaks.org/podesta-emails/emailid/5473 
+  - UFOs
+- https://wikileaks.org/podesta-emails/emailid/5506 
+  - Fuck these assholes
+- https://wikileaks.org/podesta-emails/emailid/3747 _(March 4, 2016)_
+  - _"Re: How are you? MIss you."_
+  - Is John Podesta in a gay relationship with [Herbert Sandler](https://en.wikipedia.org/wiki/Herbert_Sandler)?
