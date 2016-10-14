@@ -37,6 +37,8 @@
 - https://wikileaks.org/podesta-emails/emailid/6900 _(March 21, 2015)_
   - _"**foreign donations and paid speeches and hustling gold mining deals by her brother are entirely legitimate issues** that are self-created, and must self-corrected before it is too late"_
   - Brent (who?) sends a concerned email to John Podesta about Clinton's overt corruption
+- https://wikileaks.org/podesta-emails/emailid/4102 _(March 27, 2015)_
+  - Lawyer for 9/11 families vs Saudia Arabia warns Clinton on problems arising because the money the Foundation got from Saudia Arabia
 - https://wikileaks.org/podesta-emails/emailid/3003 _(March 28, 2015)_
 - https://wikileaks.org/podesta-emails/emailid/286 _(July 3, 2015)_
   - _" Putting on all of your radars that Grassley sent a letter to AG Lynch (dated June 30th though we just saw it) **asking questions about contributions to the Clinton Foundation and the Uranium One deal**. Letter is attached. Craig is connecting with comms team to be sure they are aware as well."_
