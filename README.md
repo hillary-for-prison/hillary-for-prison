@@ -102,6 +102,9 @@
 # Lobbying, selling influence
 
 - https://wikileaks.org/podesta-emails/emailid/2485 _(December 21, 2007)_
+- https://wikileaks.org/podesta-emails/emailid/2601 _(October 15, 2008)_
+  - _"Pete, **need to chat with you today about a time-sensitive Treasury issue**."_
+  - From Michael B. Froman of Citibank
 - https://wikileaks.org/podesta-emails/emailid/118 _(April 19, 2015)_
   - _"and more than **$1 million in payments to Mr. Clinton by a Canadian bank and major shareholder in the Keystone XL oil pipeline** around the time the project was being debated in the State Department."_
 - https://wikileaks.org/podesta-emails/emailid/927
