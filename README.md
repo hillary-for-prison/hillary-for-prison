@@ -10,6 +10,7 @@
 # Democratic Primary rigging
 
 - https://wikileaks.org/podesta-emails/emailid/2986 _(July 15, 2015)_
+  - _"Won't stop assuring Sens Brown and Heitkamp (at dinner now) that **HRC has personally told Tim Kaine he's the veep.**"_
   - Tim Kaine was picked as the VP as early as July, 2015 (not inherently meaningful, but supports the theory that he was promised VP if he steps down as DNC chair so DWS can help Hillary win the nomination)
 
 # DOJ/FBI collusion
