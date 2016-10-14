@@ -32,6 +32,8 @@
 
 # Emails, private server, FBI investigation
 
+- https://wikileaks.org/podesta-emails/emailid/2838 _(May 19, 2015)_
+  - Clinton team scrambles to put together a statement about the recent DOJ decision to release work-related emails before Hillary appears before the press
 - https://wikileaks.org/podesta-emails/emailid/3855 _(August 7, 2015)_
   - _"The statement could be read to imply we turned over the thumb drive and server to the State Department—**which we didn’t**"_
   - Cheryl Mills and others discuss how to word an upcoming official statement by Clinton about her emails. David Kendal suggests removing a lie from the draft.
