@@ -14,6 +14,12 @@
 - https://wikileaks.org/podesta-emails/emailid/6185
   - _"Someone here just got a tip that **the State Department may be planning to release her Benghazi emails tomorrow or Monday.**"_
   
+# Emails, private server, FBI investigation
+
+- https://wikileaks.org/podesta-emails/emailid/3855 _(August 7, 2015)_
+  - _"The statement could be read to imply we turned over the thumb drive and server to the State Department—**which we didn’t**"_
+  - Cheryl Mills and others discuss how to word an upcoming official statement by Clinton about her emails. David Kendal suggests removing a lie from the draft.
+  
 # Establishment
 
 - https://wikileaks.org/podesta-emails/emailid/5423 _(March 20, 2016)_
