@@ -191,6 +191,9 @@
 
 ## John Podesta's gay relationship with [Herbert Sandler](https://en.wikipedia.org/wiki/Herbert_Sandler)
 
+- https://wikileaks.org/podesta-emails/emailid/3426 _(March 5, 2015)_
+  - _"I left my ring and bracelets on your dresser."_
+  - Does his wife know?
 - https://wikileaks.org/podesta-emails/emailid/3747 _(March 4, 2016)_
   - _"Re: How are you? MIss you."_
 
