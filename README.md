@@ -3,8 +3,10 @@
 - https://wikileaks.org/podesta-emails/emailid/927
   - _“So our system is, in many ways, more difficult, certainly far more expensive and much longer than a parliamentary system, and I really admire the people who subject themselves to it. Even when I, you know, think they should not be elected president, I still think, well, you know, good for you I guess, you're out there promoting democracy and those crazy ideas of yours. So I think that it's something -- I would like -- you know, obviously as somebody who has been through it, I would like it not to last as long because I think it's very distracting from what we should be doing every day in our public business. I would like it not to be so expensive. I have no idea how you do that. I mean, in my campaign -- I lose track, but I think I raised $250 million or some such enormous amount, and in the last campaign President Obama raised 1.1 billion, and **that was before the Super PACs and all of this other money just rushing in**, and it's so ridiculous that we have this kind of free for all with all of this **financial interest at stake**, but, you know, the Supreme Court said that's basically what we're in for. So we're kind of in the wild west, and, you know, **it would be very difficult to run for president without raising a huge amount of money and without having other people supporting you because your opponent will have their supporters**. So I think as hard as it was when I ran, I think it's even harder now.”_ - Speech for General Electric's Global Leadership Meeting, January 6, 2014
 
-# Clinton Foundation
+# Clinton Foundation / Foreign donations
 
+- https://wikileaks.org/podesta-emails/emailid/8396 _(April 16, 2012)_
+  - Qatar gave Bill Clinton a $1 million check for his birthday in 2011
 - https://wikileaks.org/podesta-emails/emailid/6900 _(March 21, 2015)_
   - _"**foreign donations and paid speeches and hustling gold mining deals by her brother are entirely legitimate issues** that are self-created, and must self-corrected before it is too late"_
   - Brent (who?) sends a concerned email to John Podesta about Clinton's overt corruption
