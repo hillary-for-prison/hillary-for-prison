@@ -9,6 +9,11 @@
   - _"**foreign donations and paid speeches and hustling gold mining deals by her brother are entirely legitimate issues** that are self-created, and must self-corrected before it is too late"_
   - Brent (who?) sends a concerned email to John Podesta about Clinton's overt corruption
 
+# Democratic Primary rigging
+
+- https://wikileaks.org/podesta-emails/emailid/2986 _(July 15, 2015)_
+  - Tim Kaine was picked as the VP as early as July, 2015 (not inherently meaningful, but supports the theory that he was promised VP if he steps down as DNC chair so DWS can help Hillary win the nomination)
+
 # DOJ/FBI collusion
 
 - https://wikileaks.org/podesta-emails/emailid/6185
