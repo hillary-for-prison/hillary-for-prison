@@ -17,6 +17,11 @@
 - https://wikileaks.org/podesta-emails/emailid/2301 _(January 10, 2016)_
   - _"I had a multi-email exchange with someone in the media this morning---a name you would know---who is telling me that **there are people close to the Clintons who says WJC's sex life could be damaging to her**. I responded that I totally disagree with that, that WJC's presidency and his personal appeal are huge assets and that I do not believe people who are the closest to the Clintons believe what this person in the media is hearing from somebody."_
 
+# Climate change / Environment
+
+- https://wikileaks.org/podesta-emails/emailid/8248 _(June 23, 2015)_
+  - _**I don't recall any polling to guide us**, but I'd be a bit nervous about rushing to say we'd never support such a tax. Bernie I assume DOES support such a tax and it could be fodder for him if we say unequivocally now that we don't support one. To be clear: it's lethal in the general, so **I don't want to support one. But don't want to give bernie contrast right now**. So if there's a way to re-state principles and say she'll announce something in the next few weeks, that would be great."_
+
 # Clinton Foundation / Foreign donations
 
 - https://wikileaks.org/podesta-emails/emailid/2874 _(November 13, 2011)_
