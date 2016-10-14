@@ -55,7 +55,7 @@ In the media:
   - Tim Kaine was picked as the VP as early as July, 2015 (not inherently meaningful, but supports the theory that he was promised VP if he steps down as DNC chair so DWS can help Hillary win the nomination)
 - https://wikileaks.org/podesta-emails/emailid/4930 _(March 13, 2016)_
   - _"John, the Roberts bill will be introduced on Monday night and it is now highly likely that a very bad "compromise" version will pass the senate this week and be approved by the House and on its way to the White House within a very short period. I can promise you that **if President Obama signs this terrible legislation that blatantly validates Bernie's entire campaign message about Wall Street running our government, this will give Bernie a huge boost** and 10,000 -20,000 outraged citizens ( who WILL turn up because they will be so angry at the President for preemption vt) will be marching on the Mall with Bernie as their keynote speaker. In short, I feel certain that Obama (who famously promised on camera to implement mandatory GMO labeling) signing this bill will result in adding at least another month or more of money and attention to the Sanders campaign. To avoid this, this **bill can still be stopped if the WH and Clinton campaign come down now on the 12-14 farm state dems who Roberts will need** to pass this compromise."_
-  - Clinton campaign leverages the White House to help her defeat Bernie
+  - [Gary Hirshberg](https://en.wikipedia.org/wiki/Gary_Hirshberg) (CEO) advises campaign to leverage the White House against Bernie
 
 # DOJ/FBI collusion
 
