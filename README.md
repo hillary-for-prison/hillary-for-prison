@@ -50,6 +50,15 @@
   - _"This entire effort should be done with a low profile, avoiding the massive traditional military operations that are at best temporary solutions. While this military/para-military operation is moving forward, we need to use our diplomatic and more traditional intelligence assets to bring pressure on **the governments of Qatar and Saudi Arabia, which are providing clandestine financial and logistic support to ISIL and other radical Sunni groups in the region**._
   - From Hillary Clinton, acknowledging the the Saudi Arabian government (not just wealthy individuals) is actively funding ISIS
 
+# Lobbying, selling influence
+
+- https://wikileaks.org/podesta-emails/emailid/927
+  - _“So our system is, in many ways, more difficult, certainly far more expensive and much longer than a parliamentary system, and I really admire the people who subject themselves to it. Even when I, you know, think they should not be elected president, I still think, well, you know, good for you I guess, you're out there promoting democracy and those crazy ideas of yours. So I think that it's something -- I would like -- you know, obviously as somebody who has been through it, I would like it not to last as long because I think it's very distracting from what we should be doing every day in our public business. I would like it not to be so expensive. I have no idea how you do that. I mean, in my campaign -- I lose track, but I think I raised $250 million or some such enormous amount, and in the last campaign President Obama raised 1.1 billion, and **that was before the Super PACs and all of this other money just rushing in**, and it's so ridiculous that we have this kind of free for all with all of this **financial interest at stake**, but, you know, the Supreme Court said that's basically what we're in for. So we're kind of in the wild west, and, you know, **it would be very difficult to run for president without raising a huge amount of money and without having other people supporting you because your opponent will have their supporters**. So I think as hard as it was when I ran, I think it's even harder now.”_ - Speech for General Electric's Global Leadership Meeting, January 6, 2014
+- https://wikileaks.org/podesta-emails/emailid/6353 _(July 8, 2015)_
+  - _"They also happy to have Sen Udall engage publicly/email/**direct mail to raise money etc for Sec Clinton** if desired."_
+  - _"They, together and separately, would like to be **engaged in policy conversations with appropriate Clinton campaign team esp around energy and climate issues**."_
+  - Mark Udall and Maggie fox are happy to help raise money for Hillary! (But their back are itchy)
+  
 # Media collusion
 
 - http://dcleaks.com/emails/cApR/html/Clinton_Foundation/00001237.EML.html _(February 19, 2015)_
@@ -68,11 +77,6 @@
   - CNN getting caught whispering a Clinton talking point to an interviewee after the second Presidential debate
 - https://wikileaks.org/podesta-emails/emailid/5205 _(March 12, 2016)_
   - Donna Brazile leaks a question from the upcoming CNN town hall to the Clinton camp, and [it was asked](https://www.youtube.com/watch?v=fN7MefalMm0).
-
-# Money in politics
-
-- https://wikileaks.org/podesta-emails/emailid/927
-  - _“So our system is, in many ways, more difficult, certainly far more expensive and much longer than a parliamentary system, and I really admire the people who subject themselves to it. Even when I, you know, think they should not be elected president, I still think, well, you know, good for you I guess, you're out there promoting democracy and those crazy ideas of yours. So I think that it's something -- I would like -- you know, obviously as somebody who has been through it, I would like it not to last as long because I think it's very distracting from what we should be doing every day in our public business. I would like it not to be so expensive. I have no idea how you do that. I mean, in my campaign -- I lose track, but I think I raised $250 million or some such enormous amount, and in the last campaign President Obama raised 1.1 billion, and **that was before the Super PACs and all of this other money just rushing in**, and it's so ridiculous that we have this kind of free for all with all of this **financial interest at stake**, but, you know, the Supreme Court said that's basically what we're in for. So we're kind of in the wild west, and, you know, **it would be very difficult to run for president without raising a huge amount of money and without having other people supporting you because your opponent will have their supporters**. So I think as hard as it was when I ran, I think it's even harder now.”_ - Speech for General Electric's Global Leadership Meeting, January 6, 2014
   
 # Racism, racial politics
 
