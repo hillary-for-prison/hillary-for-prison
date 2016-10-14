@@ -107,8 +107,11 @@
   - _"This draft assumes that **she's ultimately going to support both TPA and TPP.**"_
   - An early draft of her weasel-worded stance on TPP, which she later came out against (because of Bernie)
 
-# Violence
+# Violence, threats
 
+- https://wikileaks.org/podesta-emails/emailid/5705 _(January 21, 2016)_
+  - _" I know you were probably kidding this morning about me in NH. I am aware of your dark sense of humor. But I should say that **I would do whatever Hillary needs always**. I owe her a lot. And **I'm a loyal soldier**. I think I might not be so useful because I overly focus on the lessons of the past but **if there's something I should do to help campaign more I will do it**. Let's hope it doesn't come to this and she wins Iowa."_
+  - Neena Tanden sends a very eerie sounding email in response to a "dark" joke.
 - https://wikileaks.org/podesta-emails/emailid/6423 _(February 21, 2016)_
   - _"I think i reported I talked to Tad. **Expressed our unhappiness in vaguely threatening terms.**"_
   - John Podesta calls up [Tad Devine](https://en.wikipedia.org/wiki/Tad_Devine) about [Bernie Sanders' brother calling Bill Clinton a rapist](www.thedailybeast.com/articles/2016/02/19/bernie-sanders-s-brother-he-backs-class-warfare-bill-clinton-was-worse-than-bush.html)
