@@ -95,6 +95,10 @@
   - _"This entire effort should be done with a low profile, avoiding the massive traditional military operations that are at best temporary solutions. While this military/para-military operation is moving forward, we need to use our diplomatic and more traditional intelligence assets to bring pressure on **the governments of Qatar and Saudi Arabia, which are providing clandestine financial and logistic support to ISIL and other radical Sunni groups in the region**._
   - From Hillary Clinton, acknowledging the the Saudi Arabian government (not just wealthy individuals) is actively funding ISIS
 
+# Israel
+
+- https://wikileaks.org/podesta-emails/emailid/2034 _(March 25, 2015)_
+
 # Lobbying, selling influence
 
 - https://wikileaks.org/podesta-emails/emailid/2485 _(December 21, 2007)_
