@@ -62,6 +62,8 @@
   - Mark Leibovich of the New York Times running a story by Clinton staffer Jennifer Palmieri before publishing
 - https://www.youtube.com/watch?v=GqCIub3SmCI
   - CNN getting caught whispering a Clinton talking point to an interviewee after the second Presidential debate
+- https://wikileaks.org/podesta-emails/emailid/5205 _(March 12, 2016)_
+  - Donna Brazile leaks a question from the upcoming CNN town hall to the Clinton camp, and [it was asked](https://www.youtube.com/watch?v=fN7MefalMm0).
 
 # TPP
 
