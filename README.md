@@ -12,6 +12,12 @@
 
 -----
 
+# Benghazi investigation
+
+- https://wikileaks.org/podesta-emails/emailid/9272 _(June 25, 2015)_
+  - _"OFF RECORD, **if pressed on whether we are essentially admitting the possibility that she deleted some emails**"_
+  - _"They do not plan to release anything publicly, so no posting online or anything public-facing, just to the committee. That said, they are considering placing a story with a friendly at the AP (Matt Lee or Bradley Klapper), that would lay this out **before the majority on the committee has a chance to realize what they have** and distort it."_
+
 # Bimbo Dickins
 
 - https://wikileaks.org/podesta-emails/emailid/2301 _(January 10, 2016)_
