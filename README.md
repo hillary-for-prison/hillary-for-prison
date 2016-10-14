@@ -112,6 +112,12 @@
 - https://wikileaks.org/podesta-emails/emailid/5705 _(January 21, 2016)_
   - _" I know you were probably kidding this morning about me in NH. I am aware of your dark sense of humor. But I should say that **I would do whatever Hillary needs always**. I owe her a lot. And **I'm a loyal soldier**. I think I might not be so useful because I overly focus on the lessons of the past but **if there's something I should do to help campaign more I will do it**. Let's hope it doesn't come to this and she wins Iowa."_
   - Neena Tanden sends a very eerie sounding email in response to a "dark" joke.
+- https://wikileaks.org/podesta-emails/emailid/6008 _(February 9, 2016)_
+  - _"Didn't think **wet works** meant pool parties at the Vineyard."_
+  - _"I am all in. Sounds like it will be a bad nite , we all need to buckle up and double down"_
+  - "Wet works" is slang for assassination, esp. covert
+  - Sent the night of the New Hampshire primary (possibly what "bad nite" refers to)
+  - Sent three days before the murder of Antonin Scalia (no proof of this being related, though Scalia's death has some rather suspicious details surrounding it: no autopsy, declared dead over the phone, story about pillow over his face redacted)
 - https://wikileaks.org/podesta-emails/emailid/6423 _(February 21, 2016)_
   - _"I think i reported I talked to Tad. **Expressed our unhappiness in vaguely threatening terms.**"_
   - John Podesta calls up [Tad Devine](https://en.wikipedia.org/wiki/Tad_Devine) about [Bernie Sanders' brother calling Bill Clinton a rapist](www.thedailybeast.com/articles/2016/02/19/bernie-sanders-s-brother-he-backs-class-warfare-bill-clinton-was-worse-than-bush.html)
