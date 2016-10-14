@@ -57,7 +57,7 @@
 - https://wikileaks.org/podesta-emails/emailid/6353 _(July 8, 2015)_
   - _"They also happy to have Sen Udall engage publicly/email/**direct mail to raise money etc for Sec Clinton** if desired."_
   - _"They, together and separately, would like to be **engaged in policy conversations with appropriate Clinton campaign team esp around energy and climate issues**."_
-  - Mark Udall and Maggie fox are happy to help raise money for Hillary! (But their back are itchy)
+  - Mark Udall and Maggie fox are happy to help raise money for Hillary! (But their backs are itchy)
   
 # Media collusion
 
