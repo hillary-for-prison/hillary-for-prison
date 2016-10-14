@@ -10,6 +10,7 @@
 - https://wikileaks.org/podesta-emails/emailid/6900 _(March 21, 2015)_
   - _"**foreign donations and paid speeches and hustling gold mining deals by her brother are entirely legitimate issues** that are self-created, and must self-corrected before it is too late"_
   - Brent (who?) sends a concerned email to John Podesta about Clinton's overt corruption
+- https://abcnews.go.com/Politics/fobs-hillarys-state-dept-gave-special-attention-friends/story?id=42615379
 
 # Democratic Primary rigging
 
