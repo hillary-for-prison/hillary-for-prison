@@ -35,6 +35,9 @@
 - https://wikileaks.org/podesta-emails/emailid/3003 _(March 28, 2015)_
 - https://wikileaks.org/podesta-emails/emailid/286 _(July 3, 2015)_
   - _" Putting on all of your radars that Grassley sent a letter to AG Lynch (dated June 30th though we just saw it) **asking questions about contributions to the Clinton Foundation and the Uranium One deal**. Letter is attached. Craig is connecting with comms team to be sure they are aware as well."_
+
+In the media:
+
 - https://abcnews.go.com/Politics/fobs-hillarys-state-dept-gave-special-attention-friends/story?id=42615379
 
 # Democratic Primary rigging
@@ -148,6 +151,10 @@
   - The Clinton campaign discusses possible board members for a super PAC
 - https://www.wikileaks.com/podesta-emails/emailid/5636 _(December 1, 2015)
   - _"This structure allows CTR to retain its independence but **coordinate directly and strategically** with the Hillary campaign."_
+
+In the media:
+
+- http://lawnewz.com/high-profile/clinton-team-outsources-attack-ads-to-superpac-in-apparent-violation-of-campaign-finance-laws/
 
 # TPP
 
