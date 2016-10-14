@@ -116,6 +116,9 @@ In the media:
   - _"They also happy to have Sen Udall engage publicly/email/**direct mail to raise money etc for Sec Clinton** if desired."_
   - _"They, together and separately, would like to be **engaged in policy conversations with appropriate Clinton campaign team esp around energy and climate issues**."_
   - Mark Udall and Maggie fox are happy to help raise money for Hillary! (But their backs are itchy)
+- https://wikileaks.org/podesta-emails/emailid/8726 _(October 1, 2015)_
+  - _"Madame Secretary/Senator: I wholeheartedly support your campaign. I've put my money where my mouth is -- twice. Not at your request, but upon my own initiative. I'm happy to contribute to you further as your campaign progresses, just as I am contributing to good Democrats like Glenn Ivey and Chris Van Hollen in their own congressional and senatorial campaigns in Maryland. They send me campaign communications once every couple of weeks, but **your more-than 20 pleas for even more additional contributions in the space of less than 72 hours is absurd, annoying, and unworthy of you**. Please moderate it. If you are able to appreciate that these incessant pleas are -- more than anything -- flat-out annoying, and a supreme turn-off to voters who might otherwise support you, I hope that you might ask your friends to stifle things a bit."_
+  - John F. Hall of NASA is annoyed by the campaign's donation pleas
   
 # Media collusion
 
