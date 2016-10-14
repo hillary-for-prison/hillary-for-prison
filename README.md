@@ -41,6 +41,11 @@
   - _"This entire effort should be done with a low profile, avoiding the massive traditional military operations that are at best temporary solutions. While this military/para-military operation is moving forward, we need to use our diplomatic and more traditional intelligence assets to bring pressure on **the governments of Qatar and Saudi Arabia, which are providing clandestine financial and logistic support to ISIL and other radical Sunni groups in the region**._
   - From Hillary Clinton, acknowledging the the Saudi Arabian government (not just wealthy individuals) is actively funding ISIS
 
+# Globalism 
+
+- https://wikileaks.org/podesta-emails/emailid/927
+  - _"My dream is a **hemispheric common market, with open trade and open borders**, some time in the future with energy that is as green and sustainable as we can get it, powering growth and opportunity for every person in the hemisphere."_ - Remarks to Banco Itau, May 16, 2013
+
 # Media collusion
 
 - http://dcleaks.com/emails/cApR/html/Clinton_Foundation/00001237.EML.html _(February 19, 2015)_
