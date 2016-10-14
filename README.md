@@ -54,3 +54,9 @@
 - https://wikileaks.org/podesta-emails/emailid/6616 _(March 25, 2015)_
   - _"This draft assumes that **she's ultimately going to support both TPA and TPP.**"_
   - An early draft of her weasel-worded stance on TPP, which she later came out against (because of Bernie)
+  
+# Wall Street
+
+- https://wikileaks.org/podesta-emails/emailid/927 _(October 24, 2013)_
+  - _"I think that there's a lot that could have been avoided in terms of both misunderstanding and really **politicizing what happened** with greater transparency"_
+  - Clinton says the 2007 financial crisis was politicized in a speech to Goldman Sachs
