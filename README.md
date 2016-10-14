@@ -79,6 +79,12 @@
 - https://wikileaks.org/podesta-emails/emailid/6616 _(March 25, 2015)_
   - _"This draft assumes that **she's ultimately going to support both TPA and TPP.**"_
   - An early draft of her weasel-worded stance on TPP, which she later came out against (because of Bernie)
+
+# Violence
+
+- https://wikileaks.org/podesta-emails/emailid/6423 _(February 21, 2016)_
+  - _"I think i reported I talked to Tad. **Expressed our unhappiness in vaguely threatening terms.**"_
+  - John Podesta calls up [Tad Devine](https://en.wikipedia.org/wiki/Tad_Devine) about [Bernie Sanders' brother calling Bill Clinton a rapist](www.thedailybeast.com/articles/2016/02/19/bernie-sanders-s-brother-he-backs-class-warfare-bill-clinton-was-worse-than-bush.html)
   
 # Wall Street
 
