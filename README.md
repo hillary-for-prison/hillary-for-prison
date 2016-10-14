@@ -60,3 +60,6 @@
 - https://wikileaks.org/podesta-emails/emailid/927 _(October 24, 2013)_
   - _"I think that there's a lot that could have been avoided in terms of both misunderstanding and really **politicizing what happened** with greater transparency"_
   - Clinton says the 2007 financial crisis was politicized in a speech to Goldman Sachs
+- https://wikileaks.org/podesta-emails/emailid/927 _(October 7, 2014)_
+  - _"Today, there's more that can and should be done that really **has to come from the industry itself**"_
+  - Clinton asserts Wall Street should reform itself in a speech to Deutsche Bank
