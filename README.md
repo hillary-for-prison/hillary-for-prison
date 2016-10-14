@@ -14,6 +14,12 @@
 - https://wikileaks.org/podesta-emails/emailid/6185
   - _"Someone here just got a tip that **the State Department may be planning to release her Benghazi emails tomorrow or Monday.**"_
   
+# Duplicity
+
+- https://wikileaks.org/podesta-emails/emailid/927 _(April 24, 2013)_
+  - _"But if everybody's watching, you know, all of the back room discussions and the deals, you know, then people get a little nervous, to say the least. So, **you need both a public and a private position.**"_
+  - From a paid speech for National Multi-Housing Councel
+  
 # Emails, private server, FBI investigation
 
 - https://wikileaks.org/podesta-emails/emailid/3855 _(August 7, 2015)_
