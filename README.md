@@ -2,6 +2,8 @@
 
 - https://wikileaks.org/podesta-emails/emailid/8396 _(April 16, 2012)_
   - Qatar gave Bill Clinton a $1 million check for his birthday in 2011
+- https://wikileaks.org/podesta-emails/emailid/5469 _(November 19, 2014)_
+  - _"We should be thoughtful about **any group that wants to rent Friend of Hillary list** now because there is interest. **This is also probably best discussed off email.**"_
 - https://wikileaks.org/podesta-emails/emailid/6900 _(March 21, 2015)_
   - _"**foreign donations and paid speeches and hustling gold mining deals by her brother are entirely legitimate issues** that are self-created, and must self-corrected before it is too late"_
   - Brent (who?) sends a concerned email to John Podesta about Clinton's overt corruption
