@@ -1,3 +1,8 @@
+# Bimbo Dickins
+
+- https://wikileaks.org/podesta-emails/emailid/2301 _(January 10, 2016)_
+  - _"I had a multi-email exchange with someone in the media this morning---a name you would know---who is telling me that **there are people close to the Clintons who says WJC's sex life could be damaging to her**. I responded that I totally disagree with that, that WJC's presidency and his personal appeal are huge assets and that I do not believe people who are the closest to the Clintons believe what this person in the media is hearing from somebody."_
+
 # Clinton Foundation / Foreign donations
 
 - https://wikileaks.org/podesta-emails/emailid/2874 _(November 13, 2011)_
