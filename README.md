@@ -42,6 +42,11 @@
   - _"The statement could be read to imply we turned over the thumb drive and server to the State Department—**which we didn’t**"_
   - Cheryl Mills and others discuss how to word an upcoming official statement by Clinton about her emails. David Kendal suggests removing a lie from the draft.
   
+# Fake Trump protests
+
+- https://wikileaks.org/podesta-emails/emailid/2074 _(October 12, 2015)_
+  - _"John thought we should prepare some talking points for the OTR at the **culinary protest against Trump's hotel**. Do these look ok to folks?"_
+
 # Gay marriage
 
 - https://wikileaks.org/podesta-emails/emailid/2631 _(October 25, 2015)_
