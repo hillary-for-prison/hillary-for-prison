@@ -1,5 +1,8 @@
 # Clinton Foundation / Foreign donations
 
+- https://wikileaks.org/podesta-emails/emailid/2874 _(November 13, 2011)_
+  - _"I'm also starting to worry that **if this story gets out, we are screwed**. Dk and I built a business. 65 people work for us who have wives and husbands and kids, they all depend on us. Our business has almost nothing to do with the clintons, the foundation or cgi in any way. The chairman of ubs could care a less about cgi."_
+  - [Doug Band](https://en.m.wikipedia.org/wiki/Doug_Band) is worried about something being exposed
 - https://wikileaks.org/podesta-emails/emailid/8396 _(April 16, 2012)_
   - Qatar gave Bill Clinton a $1 million check for his birthday in 2011
 - https://wikileaks.org/podesta-emails/emailid/5469 _(November 19, 2014)_
