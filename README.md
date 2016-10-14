@@ -40,6 +40,13 @@
   - _"The statement could be read to imply we turned over the thumb drive and server to the State Department—**which we didn’t**"_
   - Cheryl Mills and others discuss how to word an upcoming official statement by Clinton about her emails. David Kendal suggests removing a lie from the draft.
   
+# Gay marriage
+
+- https://wikileaks.org/podesta-emails/emailid/2631 _(October 25, 2015)_
+  - _"I think everyone agrees we shouldn't restate her argument. Question is whether she's going to agree to explicitly disavow it. And I doubt it."_ ("it" here are her comments on DOMA)
+  - _"I'm not saying double down or ever say it again. I'm just saying that she's not going to want to say she was wrong about that, given **she and her husband believe it** and have repeated it many times. Better to reiterate evolution, opposition to DOMA when court considered it, and forward looking stance."_
+  - Hillary Clinton is privately against gay marriage
+
 # Globalism 
 
 - https://wikileaks.org/podesta-emails/emailid/927
