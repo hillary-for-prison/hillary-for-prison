@@ -58,6 +58,9 @@
   - _"Fine to use the moose, but appreciate **leaving the mention of Sarah Palin out**."_
   - _"**I ask you leave out**: 'and gay rights has moved much faster than women's rights or civil rights, which is an interesting phenomenon somebody in the future will unpack.'"_
   - Mark Leibovich of the New York Times running a story by Clinton staffer Jennifer Palmieri before publishing
+- https://wikileaks.org/podesta-emails/emailid/5502 _(July 24, 2015)_
+  - _"Tide does seem to be shifting a bit on this, **great work by the press shop. Cummings is helpful as is AP.** I do think that if Hillary doesn't speak to this today, people will assume she's guilty though. With normal people, if you are accused of being a criminal, they expect you to deny it pronto."_
+  - HELP: What story is this referring to?
 - https://www.youtube.com/watch?v=GqCIub3SmCI
   - CNN getting caught whispering a Clinton talking point to an interviewee after the second Presidential debate
 - https://wikileaks.org/podesta-emails/emailid/5205 _(March 12, 2016)_
@@ -76,7 +79,6 @@
   - The Clinton campaign discusses possible board members for a super PAC
 
 # TPP
-
 
 - https://wikileaks.org/podesta-emails/emailid/6616 _(March 25, 2015)_
   - _"This draft assumes that **she's ultimately going to support both TPA and TPP.**"_
