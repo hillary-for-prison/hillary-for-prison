@@ -170,6 +170,9 @@ In the media:
 - https://wikileaks.org/podesta-emails/emailid/6616 _(March 25, 2015)_
   - _"This draft assumes that **she's ultimately going to support both TPA and TPP.**"_
   - An early draft of her weasel-worded stance on TPP, which she later came out against (because of Bernie)
+- https://wikileaks.org/podesta-emails/emailid/8452 _(April 13, 2015)_
+  - _"I talked to Marlon today about this. Naturally we should not be making this decision in a policy vacuum or just because we are concerned about a story of her changing her mind or taking on Obama. It is so much bigger than this. **Getting on the wrong side of Labor on the only issue they care about has ramifications on the ground in these early states. I say we suck it up and be as definitive as possible from the beginning that we don’t like these deals**. We will be right with voters and right with labor. We get no integrity gold star for staying pure on this issue because of one line if friggin Hard Choices or because this is a key issue for a lame duck president."_
+  - Clinton camp deciding to come out against the TPP for political reasons 
 
 # Violence, threats
 
