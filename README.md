@@ -110,3 +110,4 @@
 
 - https://wikileaks.org/podesta-emails/emailid/5439 - Girlfriend
 - https://wikileaks.org/podesta-emails/emailid/5473 - UFOs
+- https://wikileaks.org/podesta-emails/emailid/5506 - Fuck these assholes
