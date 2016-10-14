@@ -45,11 +45,6 @@
   - _"This entire effort should be done with a low profile, avoiding the massive traditional military operations that are at best temporary solutions. While this military/para-military operation is moving forward, we need to use our diplomatic and more traditional intelligence assets to bring pressure on **the governments of Qatar and Saudi Arabia, which are providing clandestine financial and logistic support to ISIL and other radical Sunni groups in the region**._
   - From Hillary Clinton, acknowledging the the Saudi Arabian government (not just wealthy individuals) is actively funding ISIS
 
-# Leaking classified information
-
-- https://wikileaks.org/podesta-emails/emailid/927
-  - _"I was in the small group that recommended to the President that he go after bin Laden. The amount of work that was required to get a strong enough basis of information on which to plan took more than a decade. The people who were the analysts and collectors and good old-fashioned spies who were gathering bits and pieces of information, some of them from cell phone conversations, I will tell you, and then all of a sudden putting this matrix together and saying this guy used to protect bin Laden. **He has just made a phone call.** He said this in the phone call. We need to figure out where he is. Then we need to follow him And **that is how we found this compound in Abbottabad. It didn’t happen because somebody walked into our embassy and said, You know, there is a suspicious compound in Abbottabad** that you guys should go take a look at.”_ - Speech at London Drug Toronto, November 4, 2013
-
 # Media collusion
 
 - http://dcleaks.com/emails/cApR/html/Clinton_Foundation/00001237.EML.html _(February 19, 2015)_
